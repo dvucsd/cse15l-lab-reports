@@ -15,7 +15,7 @@ Visit the VsCode website at [Visual Studio Code](https://code.visualstudio.com/)
 depending on which operating system you have (MacOS, Windows, etc). When installed, open the Visual Studio Code app and you should see something like this:
 
 
-_You may have a different menu screen._
+You may have a different menu screen.
 ---
 **Remotely Connecting**
 
@@ -27,7 +27,7 @@ Run this command, replacing the zz with the letters in your account for this cou
 
 `ssh cs15lwi23zz@ieng6.ucsd.edu`
 
-_Since it’s your first time logging in, you may get a message like this:_
+Since it’s your first time logging in, you may get a message like this:
 ---
 **Trying some commands**
 Here are some commands for you to play around with:
