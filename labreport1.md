@@ -28,7 +28,14 @@ Run this command, replacing the zz with the letters in your account for this cou
 `ssh cs15lwi23zz@ieng6.ucsd.edu` 
 
 Since it's your first time logging in, you may see something like this:
+
 ![image](https://user-images.githubusercontent.com/122562133/212165279-913830b1-3772-4adc-9cea-165f143baad5.png)
+
+Type yes, then enter your password.
+
+You should see something like this once you have successfully logged in. You may have to wait a while, if you have just recently reset your password.
+Well done! Your terminal is now connected to a computer in the CSE basement, and commands you run will run on that computer.
+
 ---
 **Trying some commands**
 Here are some commands for you to play around with:
