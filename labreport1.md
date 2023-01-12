@@ -42,6 +42,7 @@ Well done! Your terminal is now connected to a computer in the CSE basement, and
 
 ---
 **Trying some commands**
+
 Here are some commands for you to play around with:
 
 - cd ~
