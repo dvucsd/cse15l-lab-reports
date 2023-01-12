@@ -14,8 +14,8 @@ This is a comprehensive guide on how to get started with cse15L. There will be t
 Visit the VsCode website at [Visual Studio Code](https://code.visualstudio.com/). Read the instructions on how to install the program onto your computer, 
 depending on which operating system you have (MacOS, Windows, etc). When installed, open the Visual Studio Code app and you should see something like this:
 
-
 You may have a different menu screen.
+
 ---
 **Remotely Connecting**
 
@@ -25,9 +25,10 @@ Open a terminal in VSCode using 'Ctrl + `' (Command + ` for Mac users), or by us
 
 Run this command, replacing the zz with the letters in your account for this course. 
 
-`ssh cs15lwi23zz@ieng6.ucsd.edu`
+`ssh cs15lwi23zz@ieng6.ucsd.edu` 
 
-Since it’s your first time logging in, you may get a message like this:
+Since it's your first time logging in, you may see something like this:
+![image](https://user-images.githubusercontent.com/122562133/212165279-913830b1-3772-4adc-9cea-165f143baad5.png)
 ---
 **Trying some commands**
 Here are some commands for you to play around with:
