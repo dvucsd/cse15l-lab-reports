@@ -15,19 +15,19 @@ Visit the VsCode website at [Visual Studio Code](https://code.visualstudio.com/)
 depending on which operating system you have (MacOS, Windows, etc). When installed, open the Visual Studio Code app and you should see something like this:
 
 
-*You may have a different menu screen.*
+_You may have a different menu screen._
 ---
 **Remotely Connecting**
 
 If you are on Windows, you will need to install git at [Git for Windows](https://gitforwindows.org/).
 
-Open a terminal in VSCode using Ctrl + ` (Command + ` for Mac users), or by using the Terminal tab. 
+Open a terminal in VSCode using 'Ctrl + `' (Command + ` for Mac users), or by using the Terminal tab. 
 
 Run this command, replacing the zz with the letters in your account for this course. 
 
 `ssh cs15lwi23zz@ieng6.ucsd.edu`
 
-Since it’s your first time logging in, you may get a message like this:
+_Since it’s your first time logging in, you may get a message like this:_
 ---
 **Trying some commands**
 Here are some commands for you to play around with:
