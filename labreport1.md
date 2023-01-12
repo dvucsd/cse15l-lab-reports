@@ -14,6 +14,8 @@ This is a comprehensive guide on how to get started with cse15L. There will be t
 Visit the VsCode website at [Visual Studio Code](https://code.visualstudio.com/). Read the instructions on how to install the program onto your computer, 
 depending on which operating system you have (MacOS, Windows, etc). When installed, open the Visual Studio Code app and you should see something like this:
 
+![image](https://user-images.githubusercontent.com/122562133/212166001-27557b01-eba3-48f2-9243-5f42d07d8635.png)
+
 You may have a different menu screen.
 
 ---
@@ -33,6 +35,8 @@ Since it's your first time logging in, you may see something like this:
 
 Type yes, then enter your password.
 
+![image](https://user-images.githubusercontent.com/122562133/212166098-49fc5c34-365f-4fae-8bea-999fb96aaf4e.png)
+
 You should see something like this once you have successfully logged in. You may have to wait a while, if you have just recently reset your password.
 Well done! Your terminal is now connected to a computer in the CSE basement, and commands you run will run on that computer.
 
@@ -48,3 +52,6 @@ Here are some commands for you to play around with:
 - cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
 - cat /home/linux/ieng6/cs15lwi23/public/hello.txt
 
+  You should get some interesting results.
+  
+  
