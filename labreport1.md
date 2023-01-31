@@ -12,11 +12,25 @@ This is a comprehensive guide on how to get started with cse15L. There will be t
 **Installing VsCode**
 
 Visit the VsCode website at [Visual Studio Code](https://code.visualstudio.com/). Read the instructions on how to install the program onto your computer, 
-depending on which operating system you have (MacOS, Windows, etc). When installed, open the Visual Studio Code app and you should see something like this:
+depending on which operating system you have (MacOS, Windows, etc).
+
+<img width="437" alt="image" src="https://user-images.githubusercontent.com/122562133/215686040-954d60cc-2ebb-445c-b198-5ed51a818120.png">
+
+For Mac, you should extract the file and drag it into your applications folder.
+
+<img width="939" alt="image" src="https://user-images.githubusercontent.com/122562133/215693665-4a9e4bf1-d0c5-4ded-8d34-5a1fa15ee960.png">
+
+From the applications folder, double click and click open when the warning prompt pops up.
+
+<img width="287" alt="image" src="https://user-images.githubusercontent.com/122562133/215694002-82fd59ce-162c-4d9c-84ac-1a8339ca93b5.png">
+
+
+When installed, open the Visual Studio Code app and you should see something like this:
 
 ![image](https://user-images.githubusercontent.com/122562133/212166001-27557b01-eba3-48f2-9243-5f42d07d8635.png)
 
 You may have a different menu screen.
+
 
 ---
 **Remotely Connecting**
@@ -53,6 +67,10 @@ Here are some commands for you to play around with:
 - cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
 - cat /home/linux/ieng6/cs15lwi23/public/hello.txt
 
-  You should get some interesting results.
+  I got some interesting results. For example here is what happens when I type in ls -lat. From what it seems, it looks like it prints out all the files
+  and the user associated to each one, while I was connected to the remote server.
+  
+  <img width="596" alt="image" src="https://user-images.githubusercontent.com/122562133/215689467-d67b920e-4169-496d-a7b5-a6a0973a5da7.png">
+
   
   
