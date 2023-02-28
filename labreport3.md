@@ -1,6 +1,8 @@
 # Week 5 Lab Report
 
-In this lab report, I will be focusing on the command 'grep' and 4 different ways to use it in the terminal.
+Source used for this lab report - Chatgpt (I asked it what are some variations of grep that I can use in the command line terminal).
+
+In this lab report, I will be focusing on the command 'grep' and 4 different ways to use it in the terminal. 
 
 **Variation 1:
 grep -c "pattern" filename.txt**
