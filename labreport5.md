@@ -1,4 +1,4 @@
-# Week 5 Lab Report
+# Lab Report 5
 
 Source used for this lab report - Chatgpt (I asked it what are some variations of wc that I can use in the command line terminal).
 
