@@ -37,7 +37,7 @@ Step 8 - I repeat the process of step 6 and the tests pass:
 
 <img width="985" alt="image" src="https://user-images.githubusercontent.com/122562133/221772697-30bef1c7-b0ae-43fc-a562-7432f581e42d.png">
 
-Step 9 - I use the commands `<git add>`,`<git commit -m "message">` and `<git push>` to show the changes in my github account
+Step 9 - I use the commands `<git add>`,`<git commit -m "message">` and `<git push>` to show the changes in my github account.
 
 <img width="828" alt="image" src="https://user-images.githubusercontent.com/122562133/221773267-50c747d4-d3e4-498b-baea-fb8474a19286.png">
 
